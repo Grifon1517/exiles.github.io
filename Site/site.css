@@ -1,0 +1,85 @@
+html{
+	background-image: url(back1.png);
+}
+
+#div1{
+	padding-top: 20%;
+	padding-left: 30px;
+	font-family: "Myriad Pro";
+	font-size: 60px;
+	font-weight: bold;
+}
+#div2{
+	display: inline;
+	font-family: "Myriad Pro";
+	font-size: 70px;
+	color: gold;
+	padding-left: 250px;
+
+}
+#im{
+	display: inline;
+	float: right;
+	margin-top: -3%;
+
+}
+.b{
+	margin-right: all;
+	color: gold;
+	background-color: #3e3e3e;
+}
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.container {
+  width: 100%;
+  height: auto;
+}
+
+
+.container .b {
+  position: absolute;
+  top: 50%;
+  right: 1%;
+  transform: translate(-50%, -50%);
+  background-color: #555;
+  color: gold;
+  font-size: 40px;
+  padding: 12px 24px;
+  border: solid;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.container1 .a {
+  position: absolute;
+  top: 6,5%;
+  right: 15%;
+  transform: translate(-50%, -50%);
+  background-color: #555;
+  color: gold;
+  font-size: 40px;
+  padding: 12px 24px;
+  border: solid;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.container .b:hover {
+  background-color: black;
+}
+.container1 .a:hover {
+  background-color: black;
+}
+h1{
+	color: gold;
+	text-align: center;
+	font-size: 100 px;
+}
+.ss{
+	text-align: center;
+	margin-top: 100px;
+	color: gold;
+	font-size: 100px;
+}
